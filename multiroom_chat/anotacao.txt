@@ -1,0 +1,23 @@
+1) Criar um diretório
+2) Iniciar o NPM (npm init)
+3) Express
+4) EJS - View Engine
+5) Consign
+6) Body-parser
+7) Express-validator
+
+-----------------
+
+Estrutura:
+
+Pasta config -> server.js
+
+Arquivo app.js -> entry point da aplicação
+
+Pasta app -> designer patter MCV
+  - views
+  - models
+  - controllers
+  - routes
+  - public
+    - pastas -> css, images, js
